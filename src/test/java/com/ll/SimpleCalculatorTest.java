@@ -13,5 +13,5 @@ public class SimpleCalculatorTest {
         int rs = simpleCalculator.plus(1,2);
 
         Assertions.assertEquals(3,rs);
-    }
+    } // 테스트 끝 -> 구현 시작? 구현을 하지 말고 테스트가 통과하게끔만 하면 됨
 }
